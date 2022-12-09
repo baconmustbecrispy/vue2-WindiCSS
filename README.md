@@ -1,11 +1,11 @@
-# Vue2 + UnoCSS
+# Vue2 + WindiCSS
 
 with Pnpm + ElementUI
 
 ## 使用
 
 ```sh
-npx degit baconmustbecrispy/vue2-unocss#main my-app
+npx degit baconmustbecrispy/vue2-windi#main my-app
 ```
 
 ## 環境
