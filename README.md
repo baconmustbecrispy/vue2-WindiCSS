@@ -5,7 +5,7 @@ with Pnpm + ElementUI
 ## 使用
 
 ```sh
-npx degit baconmustbecrispy/vue2-windi#main my-app
+npx degit baconmustbecrispy/vue2-WindiCSS#main my-app
 ```
 
 ## 環境
